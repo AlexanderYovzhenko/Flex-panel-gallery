@@ -1,2 +1,1 @@
-# Flex-panel-gallery
- Gallery of flex panels
+# https://goldenmanbel.github.io/Flex-panel-gallery/
