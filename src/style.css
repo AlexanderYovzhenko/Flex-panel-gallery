@@ -40,11 +40,11 @@ html {
     cursor: pointer;
   }
 
-  .panel1 { background-image:url(https://source.unsplash.com/random/1500x1500); }
-  .panel2 { background-image:url(https://source.unsplash.com/random/1500x1500); }
-  .panel3 { background-image:url(https://source.unsplash.com/random/1500x1500); }
-  .panel4 { background-image:url(https://source.unsplash.com/random/1500x1500); }
-  .panel5 { background-image:url(https://source.unsplash.com/random/1500x1500); }
+  .panel1 { background-image:url(https://source.unsplash.com/random?query=dance&count=1); }
+  .panel2 { background-image:url(https://source.unsplash.com/random?query=good&count=1); }
+  .panel3 { background-image:url(https://source.unsplash.com/random?query=it&count=1); }
+  .panel4 { background-image:url(https://source.unsplash.com/random?query=world&count=1); }
+  .panel5 { background-image:url(https://source.unsplash.com/random?query=travel&count=1); }
 
   /* Flex Items */
   .panel > * {
